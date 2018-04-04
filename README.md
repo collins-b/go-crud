@@ -1,3 +1,1 @@
-## Learning Golang
-
-### Crud Application
+### Simple crud + templating
